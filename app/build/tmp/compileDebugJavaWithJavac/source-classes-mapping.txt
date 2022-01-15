@@ -1,0 +1,4 @@
+com/reptilefury/image_view/databinding/ActivityMainBinding.java
+ com.reptilefury.image_view.databinding.ActivityMainBinding
+com/reptilefury/image_view/BuildConfig.java
+ com.reptilefury.image_view.BuildConfig
